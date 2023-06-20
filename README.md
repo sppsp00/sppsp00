@@ -15,6 +15,8 @@
 
 <h3>💻Stats💻</h3>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sppsp)](https://solved.ac/sppsp/)
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sppsp00&show_icons=true&theme=radical)
 </div>
 
